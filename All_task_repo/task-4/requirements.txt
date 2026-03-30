@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+<<<<<<< HEAD
+Flask-JWT-Extended
+Werkzeug
+=======
+Flask-JWT-Extended
+>>>>>>> e98609fd6ed9eba558c0f190089624dfb279f8e9
